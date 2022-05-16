@@ -1,0 +1,1 @@
+suit_isolate_seg('D:\Lulab\rsCVR_PCA\Moyamoya\3T9269\3t9269_4_1\3t9269_4_1.hdr');
